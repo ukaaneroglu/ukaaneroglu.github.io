@@ -21,6 +21,6 @@ Bu projeyi çatallayarak (fork) kendi link sayfanızı oluşturabilirsiniz:
 
 Eğer bir hata bulursanız veya bir özellik eklemek isterseniz lütfen bir **Issue** açmaktan çekinmeyin.
 
-* **GitHub:** [@ukaanetoglu](https://www.google.com/search?q=https://github.com/ukaaneroglu)
+* **GitHub:** [@ukaaneroglu](https://www.google.com/search?q=https://github.com/ukaaneroglu)
 
 ---
